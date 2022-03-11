@@ -8,9 +8,9 @@
 A simple weather application that allows a user to create a custom Team Portfolio from the command line.
 
 ## Usage
-Download repo
-Instal Moduules - npm i
-Start App - node index
+- Download repo
+- Install Modules - npm i
+- Start App - node index
 
 ## Images
 ![App with final render](./src/assets/Screen%20Shot%202022-03-11%20at%206.25.44%20PM.png)
