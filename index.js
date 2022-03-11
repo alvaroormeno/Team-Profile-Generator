@@ -147,17 +147,16 @@ function buildTeam() {
       fs.mkdirSync(OUTPUT_DIR)
     }
     fs.writeFileSync(outputPath, render(members), "UTF-8");
+
+    fs.copyFile('./src/template.css', './output/newtemplate.css', err => {
+        if (err) {
+            reject(err);
+            return;
+        }
+    })
 }
 
-// function buildTeam () {
-//     if (!fs.existsSync(OUTPUT_DIR)) {
-//         fs.mkdirSync(OUTPUT_DIR)
 
-//     } 
-
-//     fs.writeFileSync(outputPath, render(members),"utf-8")
-
-// }
 
 createManager();
 
