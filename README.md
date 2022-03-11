@@ -1,8 +1,8 @@
 # Team-Profile-Generator
 
 ## Links
-- VIDEO LINK: https://github.com/alvaroormeno/Team-Profile-Generator
-- REPO: https://github.com/alvaroormeno/weather-dashboard
+- VIDEO LINK: https://drive.google.com/file/d/1eehXztKJzoHeaePTTqXe5JthrXCgJ3W9/view
+- REPO: https://github.com/alvaroormeno/Team-Profile-Generator
 
 ## Description
 A simple weather application that allows a user to create a custom Team Portfolio from the command line.
