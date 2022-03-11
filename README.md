@@ -12,6 +12,8 @@ Download repo
 Instal Moduules - npm i
 Start App - node index
 
+## Images
+![App with final render](./src/assets/Screen%20Shot%202022-03-11%20at%206.25.44%20PM.png)
 
 ## User Story
 ```
